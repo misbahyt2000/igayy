@@ -1,36 +1,36 @@
 {
 
  "Account": {
-     "Username": "JANGAN",
-     "Password": "NAPSU"
+     "Username": "idx0009",
+     "Password": "0009idx"
      },
- "Target Profit": "20000",
- "Target Win": "20000",
+ "Target Profit": "4000",
+ "Target Win": "4000",
  "Lose Target": "0",
  "Reset If Target Profit": "OFF",
  "Reset If Target Win": "OFF",
  "Interval": "1", "Config": [{
 
      "Name Bet Set": "WinWinWin",
-     "Base Bet": "0.212",
+     "Base Bet": "0.01",
      "Max Bet": "OFF",
      "Chance": "5",
      "Random Chance": {
-          "Toggle": "ON",
+          "Toggle": "OFF",
           "Min": "47",
           "Max": "69"
         },
      "Bet": {
-          "Bet": "Low",
+          "Bet": "Hi",
           "Hi / Low": {
               "Toggle": "OFF",
-              "If Lose": "7",
-              "If Win": "7"
+              "If Lose": "1",
+              "If Win": "1"
             }
         },
      "If Win": "1",
-     "If Lose": "2.313",
-     "Reset If Win": "2",
+     "If Lose": "1.1",
+     "Reset If Win": "1",
      "Reset If Profit": "0",
      "Interval": "0"
      },{
