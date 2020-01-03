@@ -1,0 +1,94 @@
+{
+
+ "Account": {
+     "Username": "JANGAN",
+     "Password": "NAPSU"
+     },
+ "Target Profit": "20000",
+ "Target Win": "20000",
+ "Lose Target": "0",
+ "Reset If Target Profit": "OFF",
+ "Reset If Target Win": "OFF",
+ "Interval": "1", "Config": [{
+
+     "Name Bet Set": "WinWinWin",
+     "Base Bet": "0.212",
+     "Max Bet": "OFF",
+     "Chance": "5",
+     "Random Chance": {
+          "Toggle": "ON",
+          "Min": "47",
+          "Max": "69"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "7",
+              "If Win": "7"
+            }
+        },
+     "If Win": "1",
+     "If Lose": "2.313",
+     "Reset If Win": "2",
+     "Reset If Profit": "0",
+     "Interval": "0"
+     },{
+
+     "Name Bet Set": "KONTOL",
+     "Base Bet": "0.010",
+     "Max Bet": "OFF",
+     "Chance": "45",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "6",
+          "Max": "26"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "3",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1.1",
+     "If Lose": "1.373",
+     "Reset If Win": "1",
+     "Reset If Profit": "0.1",
+     "Interval": "1"
+     },{
+
+     "Name Bet Set": "MEMEK",
+     "Base Bet": "5",
+     "Max Bet": "OFF",
+     "Chance": "40",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "55",
+          "Max": "77"
+        },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "OFF",
+              "If Lose": "1",
+              "If Win": "1"
+            }
+        },
+     "If Win": "1.00999",
+     "If Lose": "1.0222",
+     "Reset If Win": "2",
+     "Reset If Profit": "0",
+     "Interval": "212"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "OFF",
+       "If Balance": "4500",
+       "Wallet Address": " xxxxxx",
+       "Amount": "3500"
+      },
+  "User-Agent": "Android Phone / Chrome 65 [Mobile]:Mozilla/5.0 (Linux; Android 8.0; BLA-L29 Build/HUAWEIBLA-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3236.6 Mobile Safari/537.36"
+
+}
