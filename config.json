@@ -11,14 +11,14 @@
  "Reset If Target Win": "OFF",
  "Interval": "1", "Config": [{
 
-     "Name Bet Set": "WinWinWin",
-     "Base Bet": "0.01",
+     "Name Bet Set": "650 doge gas",
+     "Base Bet": "0.1",
      "Max Bet": "OFF",
-     "Chance": "5",
+     "Chance": "77",
      "Random Chance": {
-          "Toggle": "OFF",
-          "Min": "47",
-          "Max": "69"
+          "Toggle": "ON",
+          "Min": "77",
+          "Max": "79"
         },
      "Bet": {
           "Bet": "Hi",
@@ -29,13 +29,13 @@
             }
         },
      "If Win": "1",
-     "If Lose": "1.1",
-     "Reset If Win": "1",
+     "If Lose": "4",
+     "Reset If Win": "2",
      "Reset If Profit": "0",
      "Interval": "0"
      },{
 
-     "Name Bet Set": "KONTOL",
+     "Name Bet Set": "Min 2k Doge",
      "Base Bet": "0.010",
      "Max Bet": "OFF",
      "Chance": "45",
@@ -59,7 +59,7 @@
      "Interval": "1"
      },{
 
-     "Name Bet Set": "MEMEK",
+     "Name Bet Set": "Min 3K doge",
      "Base Bet": "5",
      "Max Bet": "OFF",
      "Chance": "40",
